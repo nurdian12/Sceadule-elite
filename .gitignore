@@ -1,0 +1,7 @@
+__pycache__/
+node_modules/
+carousel/out/
+carousel/state.json
+carousel/rehook_state.json
+carousel/*.log
+.env

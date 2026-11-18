@@ -1,0 +1,8 @@
+{
+  "name": "sceadule-elite",
+  "private": true,
+  "description": "Generator carousel Instagram dan penjadwal Repliz",
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}
